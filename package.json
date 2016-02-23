@@ -1,0 +1,27 @@
+{
+  "name": "Sass-Compass-Learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekinaggul/Sass-Compass-Learn.git"
+  },
+  "keywords": [],
+  "author": "@tekinaggul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekinaggul/Sass-Compass-Learn/issues"
+  },
+  "homepage": "https://github.com/tekinaggul/Sass-Compass-Learn#readme",
+  "devDependencies": {
+    "grunt-contrib-uglify": "^0.11.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
